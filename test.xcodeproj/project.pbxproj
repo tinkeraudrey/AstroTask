@@ -8,28 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		5E369C262C2B24A100183874 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C252C2B24A100183874 /* TabBarController.swift */; };
-		5E369C282C2B25FA00183874 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C272C2B25FA00183874 /* HomeVC.swift */; };
-		5E369C2A2C2B260700183874 /* AddVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C292C2B260700183874 /* AddVC.swift */; };
 		5E5E49AC2C2A7004000A316E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5E49AB2C2A7004000A316E /* AppDelegate.swift */; };
 		5E5E49AE2C2A7004000A316E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5E49AD2C2A7004000A316E /* SceneDelegate.swift */; };
 		5E5E49B02C2A7004000A316E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5E49AF2C2A7004000A316E /* ViewController.swift */; };
 		5E5E49B32C2A7004000A316E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5E5E49B22C2A7004000A316E /* Base */; };
 		5E5E49BB2C2A7006000A316E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5E5E49BA2C2A7006000A316E /* Base */; };
-		5EE617202C3334D600EF23E2 /* ProgressVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE6171F2C3334D600EF23E2 /* ProgressVC.swift */; };
+		5EB482232C3338F20071FE0F /* ToDoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB482222C3338F20071FE0F /* ToDoVC.swift */; };
+		5EB482252C3339090071FE0F /* TaskDescriptionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB482242C3339090071FE0F /* TaskDescriptionVC.swift */; };
+		5EB482272C3339220071FE0F /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB482262C3339220071FE0F /* HomeVC.swift */; };
+		5EB482292C3339320071FE0F /* TimerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB482282C3339320071FE0F /* TimerVC.swift */; };
+		5EB4822B2C3339440071FE0F /* BreakVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB4822A2C3339440071FE0F /* BreakVC.swift */; };
+		5EB4822D2C3339F60071FE0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EB4822C2C3339F60071FE0F /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5E369C252C2B24A100183874 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
-		5E369C272C2B25FA00183874 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
-		5E369C292C2B260700183874 /* AddVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddVC.swift; sourceTree = "<group>"; };
-		5E5E49A82C2A7003000A316E /* SAT PointAce 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SAT PointAce 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E5E49A82C2A7003000A316E /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E5E49AB2C2A7004000A316E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E5E49AD2C2A7004000A316E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5E5E49AF2C2A7004000A316E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5E5E49B22C2A7004000A316E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5E5E49BA2C2A7006000A316E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E5E49BC2C2A7006000A316E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5EE6171F2C3334D600EF23E2 /* ProgressVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressVC.swift; sourceTree = "<group>"; };
+		5EB482222C3338F20071FE0F /* ToDoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoVC.swift; sourceTree = "<group>"; };
+		5EB482242C3339090071FE0F /* TaskDescriptionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDescriptionVC.swift; sourceTree = "<group>"; };
+		5EB482262C3339220071FE0F /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		5EB482282C3339320071FE0F /* TimerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerVC.swift; sourceTree = "<group>"; };
+		5EB4822A2C3339440071FE0F /* BreakVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakVC.swift; sourceTree = "<group>"; };
+		5EB4822C2C3339F60071FE0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Cosmic Planner/Cosmic Planner/Cosmic Planner/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +60,7 @@
 		5E5E49A92C2A7003000A316E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5E5E49A82C2A7003000A316E /* SAT PointAce 3.app */,
+				5E5E49A82C2A7003000A316E /* test.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,13 +71,16 @@
 				5E5E49AB2C2A7004000A316E /* AppDelegate.swift */,
 				5E5E49AD2C2A7004000A316E /* SceneDelegate.swift */,
 				5E5E49AF2C2A7004000A316E /* ViewController.swift */,
-				5E369C272C2B25FA00183874 /* HomeVC.swift */,
-				5E369C292C2B260700183874 /* AddVC.swift */,
-				5EE6171F2C3334D600EF23E2 /* ProgressVC.swift */,
+				5EB482222C3338F20071FE0F /* ToDoVC.swift */,
+				5EB482242C3339090071FE0F /* TaskDescriptionVC.swift */,
+				5EB482262C3339220071FE0F /* HomeVC.swift */,
+				5EB482282C3339320071FE0F /* TimerVC.swift */,
+				5EB4822A2C3339440071FE0F /* BreakVC.swift */,
 				5E5E49B12C2A7004000A316E /* Main.storyboard */,
 				5E369C252C2B24A100183874 /* TabBarController.swift */,
 				5E5E49B92C2A7006000A316E /* LaunchScreen.storyboard */,
 				5E5E49BC2C2A7006000A316E /* Info.plist */,
+				5EB4822C2C3339F60071FE0F /* Assets.xcassets */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -79,9 +88,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5E5E49A72C2A7003000A316E /* SAT PointAce 3 */ = {
+		5E5E49A72C2A7003000A316E /* test */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "SAT PointAce 3" */;
+			buildConfigurationList = 5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "test" */;
 			buildPhases = (
 				5E5E49A42C2A7003000A316E /* Sources */,
 				5E5E49A52C2A7003000A316E /* Frameworks */,
@@ -91,9 +100,9 @@
 			);
 			dependencies = (
 			);
-			name = "SAT PointAce 3";
+			name = test;
 			productName = test;
-			productReference = 5E5E49A82C2A7003000A316E /* SAT PointAce 3.app */;
+			productReference = 5E5E49A82C2A7003000A316E /* test.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +120,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "SAT PointAce 3" */;
+			buildConfigurationList = 5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "test" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +133,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5E5E49A72C2A7003000A316E /* SAT PointAce 3 */,
+				5E5E49A72C2A7003000A316E /* test */,
 			);
 		};
 /* End PBXProject section */
@@ -135,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E5E49BB2C2A7006000A316E /* Base in Resources */,
+				5EB4822D2C3339F60071FE0F /* Assets.xcassets in Resources */,
 				5E5E49B32C2A7004000A316E /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -146,12 +156,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E369C2A2C2B260700183874 /* AddVC.swift in Sources */,
-				5EE617202C3334D600EF23E2 /* ProgressVC.swift in Sources */,
+				5EB482252C3339090071FE0F /* TaskDescriptionVC.swift in Sources */,
+				5EB482272C3339220071FE0F /* HomeVC.swift in Sources */,
 				5E5E49B02C2A7004000A316E /* ViewController.swift in Sources */,
 				5E5E49AC2C2A7004000A316E /* AppDelegate.swift in Sources */,
-				5E369C282C2B25FA00183874 /* HomeVC.swift in Sources */,
+				5EB482292C3339320071FE0F /* TimerVC.swift in Sources */,
+				5EB4822B2C3339440071FE0F /* BreakVC.swift in Sources */,
 				5E369C262C2B24A100183874 /* TabBarController.swift in Sources */,
+				5EB482232C3338F20071FE0F /* ToDoVC.swift in Sources */,
 				5E5E49AE2C2A7004000A316E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -358,7 +370,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "SAT PointAce 3" */ = {
+		5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "test" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5E5E49BD2C2A7006000A316E /* Debug */,
@@ -367,7 +379,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "SAT PointAce 3" */ = {
+		5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "test" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5E5E49C02C2A7006000A316E /* Debug */,
