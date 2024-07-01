@@ -9,31 +9,27 @@
 /* Begin PBXBuildFile section */
 		5E369C262C2B24A100183874 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C252C2B24A100183874 /* TabBarController.swift */; };
 		5E369C282C2B25FA00183874 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C272C2B25FA00183874 /* HomeVC.swift */; };
-		5E369C2A2C2B260700183874 /* TimerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C292C2B260700183874 /* TimerVC.swift */; };
-		5E369C7A2C2B2A5100183874 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E369C632C2B2A5100183874 /* Assets.xcassets */; };
-		5E369C802C2B2BCC00183874 /* ToDoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C7F2C2B2BCC00183874 /* ToDoVC.swift */; };
+		5E369C2A2C2B260700183874 /* AddVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E369C292C2B260700183874 /* AddVC.swift */; };
 		5E5E49AC2C2A7004000A316E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5E49AB2C2A7004000A316E /* AppDelegate.swift */; };
 		5E5E49AE2C2A7004000A316E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5E49AD2C2A7004000A316E /* SceneDelegate.swift */; };
 		5E5E49B02C2A7004000A316E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5E49AF2C2A7004000A316E /* ViewController.swift */; };
 		5E5E49B32C2A7004000A316E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5E5E49B22C2A7004000A316E /* Base */; };
 		5E5E49BB2C2A7006000A316E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5E5E49BA2C2A7006000A316E /* Base */; };
-		5E7C2F692C2B3DF60090DD1A /* BreakVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7C2F682C2B3DF50090DD1A /* BreakVC.swift */; };
+		5EE617202C3334D600EF23E2 /* ProgressVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE6171F2C3334D600EF23E2 /* ProgressVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5E369C252C2B24A100183874 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		5E369C272C2B25FA00183874 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
-		5E369C292C2B260700183874 /* TimerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerVC.swift; sourceTree = "<group>"; };
-		5E369C632C2B2A5100183874 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../Cosmic Planner/Cosmic Planner/Assets.xcassets"; sourceTree = "<group>"; };
-		5E369C7F2C2B2BCC00183874 /* ToDoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoVC.swift; sourceTree = "<group>"; };
-		5E5E49A82C2A7003000A316E /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E369C292C2B260700183874 /* AddVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddVC.swift; sourceTree = "<group>"; };
+		5E5E49A82C2A7003000A316E /* SAT PointAce 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SAT PointAce 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E5E49AB2C2A7004000A316E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E5E49AD2C2A7004000A316E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5E5E49AF2C2A7004000A316E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5E5E49B22C2A7004000A316E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5E5E49BA2C2A7006000A316E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E5E49BC2C2A7006000A316E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5E7C2F682C2B3DF50090DD1A /* BreakVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakVC.swift; sourceTree = "<group>"; };
+		5EE6171F2C3334D600EF23E2 /* ProgressVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +54,7 @@
 		5E5E49A92C2A7003000A316E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5E5E49A82C2A7003000A316E /* test.app */,
+				5E5E49A82C2A7003000A316E /* SAT PointAce 3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -69,13 +65,11 @@
 				5E5E49AB2C2A7004000A316E /* AppDelegate.swift */,
 				5E5E49AD2C2A7004000A316E /* SceneDelegate.swift */,
 				5E5E49AF2C2A7004000A316E /* ViewController.swift */,
-				5E369C7F2C2B2BCC00183874 /* ToDoVC.swift */,
 				5E369C272C2B25FA00183874 /* HomeVC.swift */,
-				5E369C292C2B260700183874 /* TimerVC.swift */,
-				5E7C2F682C2B3DF50090DD1A /* BreakVC.swift */,
+				5E369C292C2B260700183874 /* AddVC.swift */,
+				5EE6171F2C3334D600EF23E2 /* ProgressVC.swift */,
 				5E5E49B12C2A7004000A316E /* Main.storyboard */,
 				5E369C252C2B24A100183874 /* TabBarController.swift */,
-				5E369C632C2B2A5100183874 /* Assets.xcassets */,
 				5E5E49B92C2A7006000A316E /* LaunchScreen.storyboard */,
 				5E5E49BC2C2A7006000A316E /* Info.plist */,
 			);
@@ -85,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5E5E49A72C2A7003000A316E /* test */ = {
+		5E5E49A72C2A7003000A316E /* SAT PointAce 3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "test" */;
+			buildConfigurationList = 5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "SAT PointAce 3" */;
 			buildPhases = (
 				5E5E49A42C2A7003000A316E /* Sources */,
 				5E5E49A52C2A7003000A316E /* Frameworks */,
@@ -97,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = test;
+			name = "SAT PointAce 3";
 			productName = test;
-			productReference = 5E5E49A82C2A7003000A316E /* test.app */;
+			productReference = 5E5E49A82C2A7003000A316E /* SAT PointAce 3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -117,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "test" */;
+			buildConfigurationList = 5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "SAT PointAce 3" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -130,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5E5E49A72C2A7003000A316E /* test */,
+				5E5E49A72C2A7003000A316E /* SAT PointAce 3 */,
 			);
 		};
 /* End PBXProject section */
@@ -142,7 +136,6 @@
 			files = (
 				5E5E49BB2C2A7006000A316E /* Base in Resources */,
 				5E5E49B32C2A7004000A316E /* Base in Resources */,
-				5E369C7A2C2B2A5100183874 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,12 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E369C2A2C2B260700183874 /* TimerVC.swift in Sources */,
+				5E369C2A2C2B260700183874 /* AddVC.swift in Sources */,
+				5EE617202C3334D600EF23E2 /* ProgressVC.swift in Sources */,
 				5E5E49B02C2A7004000A316E /* ViewController.swift in Sources */,
 				5E5E49AC2C2A7004000A316E /* AppDelegate.swift in Sources */,
-				5E7C2F692C2B3DF60090DD1A /* BreakVC.swift in Sources */,
 				5E369C282C2B25FA00183874 /* HomeVC.swift in Sources */,
-				5E369C802C2B2BCC00183874 /* ToDoVC.swift in Sources */,
 				5E369C262C2B24A100183874 /* TabBarController.swift in Sources */,
 				5E5E49AE2C2A7004000A316E /* SceneDelegate.swift in Sources */,
 			);
@@ -315,7 +307,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = test/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = AstroTask;
+				INFOPLIST_KEY_CFBundleDisplayName = "SAT PointAce";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -344,7 +336,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = test/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = AstroTask;
+				INFOPLIST_KEY_CFBundleDisplayName = "SAT PointAce";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -366,7 +358,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "test" */ = {
+		5E5E49A32C2A7003000A316E /* Build configuration list for PBXProject "SAT PointAce 3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5E5E49BD2C2A7006000A316E /* Debug */,
@@ -375,7 +367,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "test" */ = {
+		5E5E49BF2C2A7006000A316E /* Build configuration list for PBXNativeTarget "SAT PointAce 3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5E5E49C02C2A7006000A316E /* Debug */,
